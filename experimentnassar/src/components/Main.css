@@ -1,0 +1,29 @@
+#b1{
+    margin:0px 0px 10px 0px;
+}
+#b1{
+    color:blue;
+}
+#i1{
+    margin : 10px 20px 30px 0px;
+    
+}
+#p1{
+    margin : 0px 10px 10px 0px;
+}
+#p2{
+    margin : 0px 30px 10px 0px;
+}
+#i3{
+    margin : 0px 0px 10px 0px;
+}
+#msg1{
+    color:red;
+}
+#msg2{
+    color:red;
+}
+div {
+    text-align: center;
+    vertical-align: center;
+}
